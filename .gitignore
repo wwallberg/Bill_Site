@@ -14,11 +14,10 @@
 /tmp
 
 #Ignore other unneeded files.
-database.yml
 doc/
 *.swp
 *~
 .project
-.DS_Stoire
+.DS_Store
 .ide
 .secret
